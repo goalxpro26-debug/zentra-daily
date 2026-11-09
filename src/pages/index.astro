@@ -1,0 +1,77 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { categories } from '../data/categories';
+
+const all = (await getCollection('articles')).sort((a, b) => b.slug.localeCompare(a.slug));
+const hero = all.find((a) => a.slug === 'krakow-shooting') ?? all[0];
+const sidebar = all.filter((a) => a.slug !== hero.slug).slice(0, 3);
+const rest = all.filter((a) => a.slug !== hero.slug && !sidebar.some((s) => s.slug === a.slug));
+const initials = (name: string) => name.split(' ').map((w) => w[0]).join('').slice(0, 2).toUpperCase();
+---
+<Base active="Top News">
+  <section class="hero-grid">
+    <article>
+      <a href={`/articles/${hero.slug}/`}>
+        <div class="hero-img" style={`background:${hero.data.heroTone}`}>
+          <span class="tag">{hero.data.heroLabel}</span>
+        </div>
+      </a>
+      <div class="byline">
+        <span class="avatar">{initials(hero.data.author)}</span>
+        <span><b>{hero.data.author}</b> &nbsp;·&nbsp; {hero.data.category}</span>
+        <span class="time">{hero.data.date}</span>
+      </div>
+      <h1 class="hero-title"><a href={`/articles/${hero.slug}/`}>{hero.data.title}</a></h1>
+      <p class="hero-excerpt">{hero.data.excerpt}</p>
+      <a class="readmore" href={`/articles/${hero.slug}/`}>read more →</a>
+      <p style="color:#999;font-size:12.5px;margin-top:14px">Illustration — not a photograph of the event.</p>
+    </article>
+    <aside>
+      {sidebar.map((a) => (
+        <div class="side-card">
+          <a href={`/articles/${a.slug}/`}><div class="side-thumb" style={`background:${a.data.heroTone}`}><span class="tag">{a.data.category}</span></div></a>
+          <div>
+            <h3><a href={`/articles/${a.slug}/`}>{a.data.title}</a></h3>
+            <div class="byline">
+              <span class="avatar">{initials(a.data.author)}</span>
+              <span><b>{a.data.author}</b> &nbsp;·&nbsp; {a.data.category}</span>
+              <span class="time">{a.data.date}</span>
+            </div>
+          </div>
+        </div>
+      ))}
+      <div class="trending">
+        <h2>Trending on Zentra Daily</h2>
+        {all.slice(0, 4).map((a, i) => (
+          <div class="trend-row"><a href={`/articles/${a.slug}/`}>{i + 1}. {a.data.title}</a><span>{a.data.category}</span></div>
+        ))}
+      </div>
+    </aside>
+  </section>
+
+  <section class="section">
+    <h2>More top news</h2>
+    <p class="sub">Real stories from credible sources — every article names its source.</p>
+    <div class="grid">
+      {rest.map((a) => (
+        <article class="news-card">
+          <a href={`/articles/${a.slug}/`}><div class="thumb" style={`background:${a.data.heroTone}`}><span class="tag" style="background:rgba(255,255,255,.92);color:#111;font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:4px 9px;border-radius:999px">{a.data.category}</span></div></a>
+          <div class="body">
+            <h3><a href={`/articles/${a.slug}/`}>{a.data.title}</a></h3>
+            <p>{a.data.excerpt}</p>
+            <p style="margin-top:10px;font-size:13px;color:#999">{a.data.date}</p>
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Browse by category</h2>
+    <p class="sub">World, sports, entertainment, AI, learning — and more.</p>
+    <div class="cat-list">
+      {categories.map((c) => <a href={`/category/${c.slug}/`}>{c.name}</a>)}
+    </div>
+  </section>
+</Base>

@@ -1,0 +1,50 @@
+---
+import '../styles/global.css';
+const { title, description, active } = Astro.props;
+const nav = [
+  ['Home', '/'], ['Top News', '/'], ['World', '/category/world/'], ['Politics', '/category/politics/'],
+  ['Sports', '/category/sports/'], ['Economy', '/category/business-economy/'], ['Culture', '/category/culture/'],
+  ['Technology', '/category/technology-ai/'], ['Science', '/category/science-environment/'], ['Health', '/category/health/'],
+  ['Entertainment', '/category/entertainment/'], ['AI', '/category/technology-ai/'], ['Students', '/category/students/'],
+  ['Learning', '/category/learning/'],
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title ? `${title} — Zentra Daily` : 'Zentra Daily — World news, sports, entertainment, AI & learning, clearly explained'}</title>
+  <meta name="description" content={description || 'Zentra Daily — World news, sports, entertainment, AI & learning, clearly explained. Real stories from credible sources.'} />
+  <meta property="og:title" content={title ? `${title} — Zentra Daily` : 'Zentra Daily'} />
+  <meta property="og:description" content={description || 'World news, sports, entertainment, AI & learning, clearly explained.'} />
+  <meta property="og:type" content="website" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+</head>
+<body>
+  <div class="page">
+    <div class="card">
+      <header class="topbar">
+        <span class="icon" aria-label="Search">⌕</span>
+        <span class="divider"></span>
+        <span class="icon" aria-label="Menu">☰</span>
+        <div class="wordmark"><a href="/">ZENTRA DAILY</a></div>
+        <span class="icon" aria-label="X">𝕏</span>
+        <span class="icon" aria-label="Facebook">f</span>
+        <span class="divider"></span>
+        <span class="profile" title="Zentra Daily">ZD</span>
+      </header>
+      <nav class="nav">
+        {nav.map(([label, href]) => (
+          <a href={href} class={active === label ? 'active' : undefined}>{label}</a>
+        ))}
+      </nav>
+      <slot />
+      <footer>
+        <span>© 2026 Zentra Daily — World news, sports, entertainment, AI &amp; learning, clearly explained.</span>
+        <span><a href="/about/">About</a> &nbsp;·&nbsp; <a href="/about/">Editorial standards</a></span>
+      </footer>
+    </div>
+  </div>
+</body>
+</html>

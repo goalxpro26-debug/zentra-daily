@@ -1,0 +1,38 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { categories } from '../../data/categories';
+
+export async function getStaticPaths() {
+  return categories.map((c) => ({ params: { slug: c.slug }, props: { category: c } }));
+}
+
+const { category } = Astro.props;
+const all = await getCollection('articles');
+const items = all.filter((a) => a.data.categorySlug === category.slug);
+---
+<Base title={category.name} description={`Latest ${category.name} news from Zentra Daily.`} active={category.name}>
+  <section class="section" style="margin-top:0">
+    <h2>{category.name}</h2>
+    <p class="sub">Latest {category.name.toLowerCase()} stories from Zentra Daily.</p>
+    {items.length === 0 ? (
+      <p class="empty">No articles in {category.name} yet — new verified stories are added regularly. Check the homepage for the latest news.</p>
+    ) : (
+      <div class="grid">
+        {items.map((a) => (
+          <article class="news-card">
+            <a href={`/articles/${a.slug}/`}><div class="thumb" style={`background:${a.data.heroTone}`} /></a>
+            <div class="body">
+              <h3><a href={`/articles/${a.slug}/`}>{a.data.title}</a></h3>
+              <p>{a.data.excerpt}</p>
+              <p style="margin-top:10px;font-size:13px;color:#999">{a.data.date}</p>
+            </div>
+          </article>
+        ))}
+      </div>
+    )}
+    <div class="cat-list">
+      {categories.map((c) => <a href={`/category/${c.slug}/`}>{c.name}</a>)}
+    </div>
+  </section>
+</Base>

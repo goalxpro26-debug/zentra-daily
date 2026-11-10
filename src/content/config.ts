@@ -11,6 +11,7 @@ const articles = defineCollection({
     author: z.string(),
     heroLabel: z.string(),
     heroTone: z.string(),
+    heroImage: z.string().optional(),
     sourceName: z.string(),
     sourceUrl: z.string(),
     sourceName2: z.string().optional(),

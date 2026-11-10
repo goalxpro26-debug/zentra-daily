@@ -7,6 +7,7 @@ date: "November 9, 2026"
 author: "Zentra Daily Newsroom"
 heroLabel: "Zapopan, Mexico"
 heroTone: "linear-gradient(135deg,#3a1a1a,#7a4a2a)"
+heroImage: "/images/articles/mexico-captures-jalisco-cartel-leader-r2.webp"
 sourceName: "Al Jazeera"
 sourceUrl: "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel"
 ---

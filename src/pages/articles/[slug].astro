@@ -9,6 +9,9 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await entry.render();
+const heroStyle = entry.data.heroImage
+  ? `background:${entry.data.heroTone};background-image:url(${entry.data.heroImage});background-size:cover;background-position:center`
+  : `background:${entry.data.heroTone}`;
 const initials = (name: string) => name.split(' ').map((w) => w[0]).join('').slice(0, 2).toUpperCase();
 ---
 <Base title={entry.data.title} description={entry.data.excerpt}>
@@ -22,7 +25,7 @@ const initials = (name: string) => name.split(' ').map((w) => w[0]).join('').sli
     </div>
     <p class="lede">{entry.data.excerpt}</p>
     <figure>
-      <div class="hero-img" style={`background:${entry.data.heroTone}`}><span class="tag">{entry.data.heroLabel}</span></div>
+      <div class="hero-img" style={heroStyle}><span class="tag">{entry.data.heroLabel}</span></div>
       <figcaption>Illustration — not a photograph of the event. Zentra Daily does not present generated or stock illustrations as real news photographs.</figcaption>
     </figure>
     <div class="prose"><Content /></div>

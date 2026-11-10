@@ -10,6 +10,9 @@ export async function getStaticPaths() {
 const { category } = Astro.props;
 const all = await getCollection('articles');
 const items = all.filter((a) => a.data.categorySlug === category.slug);
+const bg = (a: any) => a.data.heroImage
+  ? `background:${a.data.heroTone};background-image:url(${a.data.heroImage});background-size:cover;background-position:center`
+  : `background:${a.data.heroTone}`;
 ---
 <Base title={category.name} description={`Latest ${category.name} news from Zentra Daily.`} active={category.name}>
   <section class="section" style="margin-top:0">
@@ -21,7 +24,7 @@ const items = all.filter((a) => a.data.categorySlug === category.slug);
       <div class="grid">
         {items.map((a) => (
           <article class="news-card">
-            <a href={`/articles/${a.slug}/`}><div class="thumb" style={`background:${a.data.heroTone}`} /></a>
+            <a href={`/articles/${a.slug}/`}><div class="thumb" style={bg(a)} /></a>
             <div class="body">
               <h3><a href={`/articles/${a.slug}/`}>{a.data.title}</a></h3>
               <p>{a.data.excerpt}</p>

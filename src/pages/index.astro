@@ -8,12 +8,15 @@ const hero = all.find((a) => a.slug === 'krakow-shooting') ?? all[0];
 const sidebar = all.filter((a) => a.slug !== hero.slug).slice(0, 3);
 const rest = all.filter((a) => a.slug !== hero.slug && !sidebar.some((s) => s.slug === a.slug));
 const initials = (name: string) => name.split(' ').map((w) => w[0]).join('').slice(0, 2).toUpperCase();
+const bg = (a: any) => a.data.heroImage
+  ? `background:${a.data.heroTone};background-image:url(${a.data.heroImage});background-size:cover;background-position:center`
+  : `background:${a.data.heroTone}`;
 ---
 <Base active="Top News">
   <section class="hero-grid">
     <article>
       <a href={`/articles/${hero.slug}/`}>
-        <div class="hero-img" style={`background:${hero.data.heroTone}`}>
+        <div class="hero-img" style={bg(hero)}>
           <span class="tag">{hero.data.heroLabel}</span>
         </div>
       </a>
@@ -30,7 +33,7 @@ const initials = (name: string) => name.split(' ').map((w) => w[0]).join('').sli
     <aside>
       {sidebar.map((a) => (
         <div class="side-card">
-          <a href={`/articles/${a.slug}/`}><div class="side-thumb" style={`background:${a.data.heroTone}`}><span class="tag">{a.data.category}</span></div></a>
+          <a href={`/articles/${a.slug}/`}><div class="side-thumb" style={bg(a)}><span class="tag">{a.data.category}</span></div></a>
           <div>
             <h3><a href={`/articles/${a.slug}/`}>{a.data.title}</a></h3>
             <div class="byline">
@@ -56,7 +59,7 @@ const initials = (name: string) => name.split(' ').map((w) => w[0]).join('').sli
     <div class="grid">
       {rest.map((a) => (
         <article class="news-card">
-          <a href={`/articles/${a.slug}/`}><div class="thumb" style={`background:${a.data.heroTone}`}><span class="tag" style="background:rgba(255,255,255,.92);color:#111;font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:4px 9px;border-radius:999px">{a.data.category}</span></div></a>
+          <a href={`/articles/${a.slug}/`}><div class="thumb" style={bg(a)}><span class="tag" style="background:rgba(255,255,255,.92);color:#111;font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:4px 9px;border-radius:999px">{a.data.category}</span></div></a>
           <div class="body">
             <h3><a href={`/articles/${a.slug}/`}>{a.data.title}</a></h3>
             <p>{a.data.excerpt}</p>

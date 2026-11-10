@@ -1,0 +1,44 @@
+---
+title: "Hungary detains Viktor Orban's brother in people-smuggling probe, PM says - Reuters"
+sourceName: "Reuters"
+sourceUrl: "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWtlUHNkRXpscUFMakl1dkxJREs1WktlV2NDWlRkc09FSjlGX3Y4ZjZGSkkzTy1ob0NuWktjc2dYVDVZZmwtdUZqd2dtTXFnbHdZVG5DYndNNWo3N1FpekpWTWkwVEdCUHVnQ19PUUhUZ3NMUEVsREFfVkh3V2ZSZ2FBS2dkQ0Uyak4zYmN1Zzh2eGtYZC01R25wN1hZUVlOdjZhbHUxZkFtS0hIMGZ0X0ZOLUU5MFAw?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "World"
+categorySlug: "world"
+published: "2026-11-10T07:26:00+00:00"
+fetched: "2026-11-10T10:57:01.350953+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [Reuters]
+(https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWtlUHNkRXpscUFMakl1dkxJREs1WktlV2NDWlRkc09FSjlGX3Y4ZjZGSkkzTy1ob0NuWktjc2dYVDVZZmwtdUZqd2dtTXFnbHdZVG5DYndNNWo3N1FpekpWTWkwVEdCUHVnQ19PUUhUZ3NMUEVsREFfVkh3V2ZSZ2FBS2dkQ0Uyak4zYmN1Zzh2eGtYZC01R25wN1hZUVlOdjZhbHUxZkFtS0hIMGZ0X0ZOLUU5MFAw?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-10 07:26:00+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Hungary detains Viktor Orban's brother in people-smuggling probe, PM says Reuters Viktor Orbán’s brother detained in people-smuggling investigation, Hungarian PM says The Guardian Hungarian authorities detain Viktor Orbán’s younger brother for suspected human trafficking The Hill Hungarian police reportedly detain brother of ex-PM Viktor Orban Al Jazeera Viktor Orbán slams police probe into younger brother over 'human trafficking' Politico
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

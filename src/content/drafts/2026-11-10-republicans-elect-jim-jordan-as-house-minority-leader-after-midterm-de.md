@@ -1,0 +1,44 @@
+---
+title: "Republicans elect Jim Jordan as House minority leader after midterm defeats - The Guardian"
+sourceName: "The Guardian"
+sourceUrl: "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1ljLXY1NXRtTnFqSDhyckhhaVVLd1Jlb0xjN3BLeDEwelRBSmJ1dllvcUt1bExDU1ZleU51Wk02ZGx6eG5pb2Rmci1RWXRMYktEQk80OFpob0llem9YYS1Fc3hFbllHYmJBVXZPZm0yM2FWeHNPVUxXMjhfV3RtUTJid0xxUS1FRnc?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Politics"
+categorySlug: "politics"
+published: "2026-11-10T22:54:40+00:00"
+fetched: "2026-11-10T23:57:02.606634+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [The Guardian]
+(https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1ljLXY1NXRtTnFqSDhyckhhaVVLd1Jlb0xjN3BLeDEwelRBSmJ1dllvcUt1bExDU1ZleU51Wk02ZGx6eG5pb2Rmci1RWXRMYktEQk80OFpob0llem9YYS1Fc3hFbllHYmJBVXZPZm0yM2FWeHNPVUxXMjhfV3RtUTJid0xxUS1FRnc?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-10 22:54:40+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Republicans elect Jim Jordan as House minority leader after midterm defeats The Guardian White House and GOP leaders try to marshal opposition to Hegseth impeachment resolution: Live updates CNN Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks The Guardian WATCH LIVE: House expected to hold preliminary vote on Hegseth impeachment as GOP chooses Jordan for minority leader PBS House Republicans elect Jim Jordan to serve as minority leader next year The Washington Post
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

@@ -1,0 +1,44 @@
+---
+title: "Gemini 4 Carbon rolling out to Gemini app for AI Ultra, Argon remains - 9to5Google"
+sourceName: "9to5Google"
+sourceUrl: "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVeWZWY3NFRDNZeUk5TGtkdWNRRGJDZDdBVURvN2Vjek9wWDdGXzhkQW1hNWpZTW45V1JDcmtmSWVEbW5zeGZnbDQ0eXdoak5qVnFqUDRGUG9ERDlQMjdLd2NPMDI?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Technology & AI"
+categorySlug: "technology-ai"
+published: "2026-11-10T16:00:00+00:00"
+fetched: "2026-11-11T07:57:00.133347+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [9to5Google]
+(https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVeWZWY3NFRDNZeUk5TGtkdWNRRGJDZDdBVURvN2Vjek9wWDdGXzhkQW1hNWpZTW45V1JDcmtmSWVEbW5zeGZnbDQ0eXdoak5qVnFqUDRGUG9ERDlQMjdLd2NPMDI?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-10 16:00:00+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Gemini 4 Carbon rolling out to Gemini app for AI Ultra, Argon remains 9to5Google Gemini 4 Carbon is now available blog.google Gemini 4 Carbon in GitHub Copilot The GitHub Blog Google releases Gemini 4 Carbon with agent ‘swarm’ feature The Verge Google Expands Gemini 4 Carbon Availability CNET
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

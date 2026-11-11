@@ -1,0 +1,44 @@
+---
+title: "Lots of Competition to Catholicism in Peru as Pope Returns for Visit - The New York Times"
+sourceName: "The New York Times"
+sourceUrl: "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazBsWHJRdDBsSEJxazdSVjhGLWpUVWlMSUx0VWZxU1dBMU9LZXVNWWNKQUo4Tm55dXJmY3pQMVc2TUZzLWYtZG1lQkFjeFEwR2FfSHJfT1QwOWRRemRrQVZ5WDBtRjBQcWx3Y2dSVS15amZwRF9tMDhJRVBEV3BjY3dJUWhhZFQ3?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "World"
+categorySlug: "world"
+published: "2026-11-11T10:04:09+00:00"
+fetched: "2026-11-11T16:57:10.688798+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [The New York Times]
+(https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazBsWHJRdDBsSEJxazdSVjhGLWpUVWlMSUx0VWZxU1dBMU9LZXVNWWNKQUo4Tm55dXJmY3pQMVc2TUZzLWYtZG1lQkFjeFEwR2FfSHJfT1QwOWRRemRrQVZ5WDBtRjBQcWx3Y2dSVS15amZwRF9tMDhJRVBEV3BjY3dJUWhhZFQ3?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-11 10:04:09+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Lots of Competition to Catholicism in Peru as Pope Returns for Visit The New York Times Peruvian homecoming: Pope Leo returns to the country that shaped his path to the papacy CNN Pope Leo returns to Peru, his adopted homeland The Washington Post Larger-than-life Leo statue awaits the pope on Peru’s Pacific coast Reuters Peru puts Pope closer to heaven for monumental welcome home The Times
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

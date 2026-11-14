@@ -1,0 +1,44 @@
+---
+title: "Fingerprint vanished 2.5 billion years ago marks turning point in Earth’s geological history - Yahoo"
+sourceName: "Yahoo"
+sourceUrl: "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWUpVUHdWazhpOXM3czFMbUQzN2N3ZDRZOXQ2T1AyME5TZjZrT3RjNmZJYUhRMGRNbVZxU2xoMHBISlplTDcyTTBfZ0dhQVh0S0UzR09IY1NUMkpEcUxTd0dfRDlHMHV2VGRwNEJQY3NhemRHaTc0RDhYZWlkMk9GMFhzb0R0cE5QWG9MblNWaEVfZ1phZ3c?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Science & Environment"
+categorySlug: "science-environment"
+published: "2026-11-13T13:00:00+00:00"
+fetched: "2026-11-13T18:57:05.933836+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [Yahoo]
+(https://news.google.com/rss/articles/CBMilgFBVV95cUxPWUpVUHdWazhpOXM3czFMbUQzN2N3ZDRZOXQ2T1AyME5TZjZrT3RjNmZJYUhRMGRNbVZxU2xoMHBISlplTDcyTTBfZ0dhQVh0S0UzR09IY1NUMkpEcUxTd0dfRDlHMHV2VGRwNEJQY3NhemRHaTc0RDhYZWlkMk9GMFhzb0R0cE5QWG9MblNWaEVfZ1phZ3c?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-13 13:00:00+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Fingerprint vanished 2.5 billion years ago marks turning point in Earth’s geological history Yahoo Earth's Plate Tectonics Evolved Dramatically 2.7 Billion Years Ago Gizmodo Ancient rocks reveal when Earth's tectonic engine 'switched on' Phys.org A chemical fingerprint in ancient rocks suggests plate tectonics began 2.5 billion years ago The Conversation Ancient Rocks Hint Earth Began Recycling Itself 2.6 Billion Years Ago StudyFinds
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

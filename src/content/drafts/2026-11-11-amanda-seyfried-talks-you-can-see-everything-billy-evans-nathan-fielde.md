@@ -1,0 +1,44 @@
+---
+title: "Amanda Seyfried Talks You Can See Everything, Billy Evans, Nathan Fielder - The Hollywood Reporter"
+sourceName: "The Hollywood Reporter"
+sourceUrl: "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXZhOXBnRmR2cHdqN0p2UGJqY0p4MHlxVnp6ZTB1S0lfYkpfTnBpZG1obUQ4WGstTUxNcVozMXJkejVlc3dEenJLVFFSM1BHdDhvZEZHd0FXcENlU19ERGJfYXdwSE1kVFJhOVdLNzE0Y1dyYy03VlB3SkQ1TURibGZ5UDNoS2ZXUXF3Q0lMTktwUmpwYWdLR1FxRkdwbURZMEhyOGhlUGR2aFpnNzM5Z3NISTUwM2owMFloSXZB?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Entertainment"
+categorySlug: "entertainment"
+published: "2026-11-11T21:19:15+00:00"
+fetched: "2026-11-12T05:56:48.318406+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [The Hollywood Reporter]
+(https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXZhOXBnRmR2cHdqN0p2UGJqY0p4MHlxVnp6ZTB1S0lfYkpfTnBpZG1obUQ4WGstTUxNcVozMXJkejVlc3dEenJLVFFSM1BHdDhvZEZHd0FXcENlU19ERGJfYXdwSE1kVFJhOVdLNzE0Y1dyYy03VlB3SkQ1TURibGZ5UDNoS2ZXUXF3Q0lMTktwUmpwYWdLR1FxRkdwbURZMEhyOGhlUGR2aFpnNzM5Z3NISTUwM2owMFloSXZB?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-11 21:19:15+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Amanda Seyfried Talks You Can See Everything, Billy Evans, Nathan Fielder The Hollywood Reporter The ‘You Can See Everything’ Interview You’ve Been Waiting For Rolling Stone Amanda Seyfried Joined ‘You Can See Everything’ Without Reps Knowing, Had ‘No Approval’ Over Filming and Got ‘Disrespected’ by Billy Evans: ‘No Reason for Him to Get That Aggressive’ Variety Amanda Seyfried Is ‘Relieved’ and ‘Excited’ About ‘You Can See Everything’ Cameo (Exclusive) People.com Amanda Seyfried Reveals What It Was Like To Be in Elizabeth Holmes’ Texas Home While the Theranos Founder Was in Prison Yahoo
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

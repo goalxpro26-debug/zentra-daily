@@ -1,0 +1,44 @@
+---
+title: "Fantasy football Start 'Em, Sit 'Em RB in Week 10: Tony Pollard looks to stay hot despite another tough test - CBS Sports"
+sourceName: "CBS Sports"
+sourceUrl: "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlR0UGtYMjJPQzhqaXlsUEctRDhlQVFmYXFXUXhqM1pEbTZnVTJJejJjZmdvcFFya25DWDJFM3JuSlhGaHFaZW4zUkYwaTBKTmxHUFFqOFltNFEydGRJRTg0TjFEQWlvejMtUnFxb1FfblItN1hJd2tEUVl1b1VCMVhTTEhhcEV6Q080Q05FNUdoUHlvSC1vUE82MXZYVUVLdHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Sports"
+categorySlug: "sports"
+published: "2026-11-11T21:03:04+00:00"
+fetched: "2026-11-12T14:58:49.590164+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [CBS Sports]
+(https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlR0UGtYMjJPQzhqaXlsUEctRDhlQVFmYXFXUXhqM1pEbTZnVTJJejJjZmdvcFFya25DWDJFM3JuSlhGaHFaZW4zUkYwaTBKTmxHUFFqOFltNFEydGRJRTg0TjFEQWlvejMtUnFxb1FfblItN1hJd2tEUVl1b1VCMVhTTEhhcEV6Q080Q05FNUdoUHlvSC1vUE82MXZYVUVLdHc?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-11 21:03:04+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Fantasy football Start 'Em, Sit 'Em RB in Week 10: Tony Pollard looks to stay hot despite another tough test CBS Sports Fantasy playbook: Week 10 Shadow Reports, lineup locks and projected scores ESPN What to watch for from 4 of the NFL's best running backs in Week 10 Yahoo Sports Week 10 Start ’Em, Sit ’Em Wide Receivers Sports Illustrated Sit/Start 2026 Week 10: Reviewing All Fantasy Relevant Players in Every Game QB List
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

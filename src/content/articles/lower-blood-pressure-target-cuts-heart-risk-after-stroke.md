@@ -8,10 +8,10 @@ author: "Zentra Daily Newsroom"
 heroLabel: "Chicago"
 heroTone: "linear-gradient(135deg,#1a1a1a,#4a4a4a)"
 heroImage: "/images/articles/lower-blood-pressure-target-cuts-heart-risk-after-stroke.webp"
-sourceName: "Fox News"
-sourceUrl: "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWpLN3RzUW5lYWVXb2NNdmtYWEF2V0loajFrTkdfNlRDMHlKZS1qaFF4N2tFUUlhNmhBQUU2eXU2Z3pHanV5V1RXZ2VmYW5yMVVIM3hwS3VUVjRwZzFVRU9PcVN5c3BkalNEc2RrN1dfN0dLTkFoNkNWNHR5elBONVJYYnF3RU1ZTTc2Z3VuUlpMaFdsWjEwb19GOWt3WDRLTWpwMFdHM0ZrMS1wa2fSAbMBQVVfeXFMTmF1cUpTbDh1b2ZmSk1zOG0tZlZaQ05iOFpqQkdURVZFdldIbFJzZEhZM3RzUkM0WmNySnljYlphVEZxbkJIWmVoX0h6TS1CRGZqYmgwVkp1bVNObVJMaG5rYzhoRkI2Y3JzRnFId1R5blpXZnNwZlJuNXVNbm14b1h6MGZJWEdIVVFLWEJYdEMwQ0U1TTJDVnVJejNmYWk0S2RRWFJXcUk4NzhyLXBsSFNaUDQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-sourceName2: "American Heart Association"
-sourceUrl2: "https://newsroom.heart.org/news/intensive-blood-pressure-control-in-stroke-survivors-lowered-risk-of-cardiovascular-events"
+sourceName: "American Heart Association"
+sourceUrl: "https://newsroom.heart.org/news/intensive-blood-pressure-control-in-stroke-survivors-lowered-risk-of-cardiovascular-events"
+sourceName2: "Medical Xpress"
+sourceUrl2: "https://medicalxpress.com/news/2026-11-aha-intensive-blood-pressure-lowering.html"
 ---
 
 Pushing blood pressure lower than the usual target cut the risk of further heart attacks, strokes and deaths in people who had already had a stroke, according to a large trial presented on November 7 at the American Heart Association's Scientific Sessions 2026 in Chicago and published the same day in the New England Journal of Medicine.
@@ -32,6 +32,6 @@ A twin trial in people with diabetes, OPTIMAL-DIABETES, found no significant dif
 
 ## Sources
 
-- [Fox News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWpLN3RzUW5lYWVXb2NNdmtYWEF2V0loajFrTkdfNlRDMHlKZS1qaFF4N2tFUUlhNmhBQUU2eXU2Z3pHanV5V1RXZ2VmYW5yMVVIM3hwS3VUVjRwZzFVRU9PcVN5c3BkalNEc2RrN1dfN0dLTkFoNkNWNHR5elBONVJYYnF3RU1ZTTc2Z3VuUlpMaFdsWjEwb19GOWt3WDRLTWpwMFdHM0ZrMS1wa2fSAbMBQVVfeXFMTmF1cUpTbDh1b2ZmSk1zOG0tZlZaQ05iOFpqQkdURVZFdldIbFJzZEhZM3RzUkM0WmNySnljYlphVEZxbkJIWmVoX0h6TS1CRGZqYmgwVkp1bVNObVJMaG5rYzhoRkI2Y3JzRnFId1R5blpXZnNwZlJuNXVNbm14b1h6MGZJWEdIVVFLWEJYdEMwQ0U1TTJDVnVJejNmYWk0S2RRWFJXcUk4NzhyLXBsSFNaUDQ?oc=5&hl=en-US&gl=US&ceid=US:en)
 - [American Heart Association — "Intensive blood pressure control in stroke survivors lowered risk of cardiovascular events"](https://newsroom.heart.org/news/intensive-blood-pressure-control-in-stroke-survivors-lowered-risk-of-cardiovascular-events)
 - [Medical Xpress — "AHA: More intensive blood pressure lowering cuts future cardiovascular risk after stroke, transient ischemic attack"](https://medicalxpress.com/news/2026-11-aha-intensive-blood-pressure-lowering.html)
+- [New England Journal of Medicine — "Intensive Blood-Pressure Control in Patients with Previous Ischemic Stroke" (OPTIMAL-STROKE)](https://www.nejm.org/doi/full/10.1056/NEJMoa2612924)

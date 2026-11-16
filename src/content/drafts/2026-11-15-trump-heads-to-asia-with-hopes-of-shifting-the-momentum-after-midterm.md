@@ -1,0 +1,44 @@
+---
+title: "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home - AP News"
+sourceName: "AP News"
+sourceUrl: "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1NqQ012SUxkSlBybGhjS290cUFLdzVaU0NabWlVbkN3Y3IzbzRqTGsteHlBOFMwUFF6M21sa0lhVGZsaUM2MkZwaHBCN3ZqRGVKSk5DWFdOVGhVR2JHcXo2OXFtQTNrUm9jSWxqWVZ0cndRMHB0UnRtWm1rc29heE9xLXdtRnhhZ0tCdW1yZHlhVEJTN0E?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "World"
+categorySlug: "world"
+published: "2026-11-15T13:54:44+00:00"
+fetched: "2026-11-15T16:57:15.685945+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [AP News]
+(https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1NqQ012SUxkSlBybGhjS290cUFLdzVaU0NabWlVbkN3Y3IzbzRqTGsteHlBOFMwUFF6M21sa0lhVGZsaUM2MkZwaHBCN3ZqRGVKSk5DWFdOVGhVR2JHcXo2OXFtQTNrUm9jSWxqWVZ0cndRMHB0UnRtWm1rc29heE9xLXdtRnhhZ0tCdW1yZHlhVEJTN0E?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-15 13:54:44+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home AP News World leaders head to Asia for back-to-back diplomatic summits The Guardian Lame-Duck Trump Heads to Asia Foreign Policy Trump set to meet with Xi and Putin at Asia-Pacific summit next week NBC News On Trump’s Asia trip agenda: Repair image, show he’s in charge The Christian Science Monitor
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

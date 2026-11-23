@@ -1,0 +1,44 @@
+---
+title: "Sifting through NASA’s sky archive, a California teenager’s homemade AI flagged 1.5 million flickering objects, and astronomers are paying attention - Futura, le média qui explore le monde"
+sourceName: "Futura, le média qui explore le monde"
+sourceUrl: "https://news.google.com/rss/articles/CBMilAJBVV95cUxQaUpkM3d2SlJ5aU5Jb0Jra0N2MDlqRGxFM0syVi1PMi1ta21ZRE5WVHhPSmUxSmJseGpXdlYzbUhrY3MzMzR3bURQajlfd3pOZ1FpVmttdjFiaVFKdmpYVVpzTW1HMVY4QmRVQ0JLSFZFUDJrZ1hxTjFneDBwb2QyVEZicERtRENWSTVfVXZnSVMtbXVoc1ZnZDMyRkRXcVRtX3dYX1FzaTJ5OF95WUNnb0NlaktYU3JWeTB0a2VQcW1QRll1anotUy1ScGRCeTV2MDJkT3FaRHFFYVVNUkZ1U1Y5RmhKNWhsNUIyeGpTRkpuOVQ2VlNTMGw1VGNHQjZ4UW5sREZKOGdkZnoxbjJwaVRjTG0?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Science & Environment"
+categorySlug: "science-environment"
+published: "2026-11-21T14:20:23+00:00"
+fetched: "2026-11-22T05:57:46.139162+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [Futura, le média qui explore le monde]
+(https://news.google.com/rss/articles/CBMilAJBVV95cUxQaUpkM3d2SlJ5aU5Jb0Jra0N2MDlqRGxFM0syVi1PMi1ta21ZRE5WVHhPSmUxSmJseGpXdlYzbUhrY3MzMzR3bURQajlfd3pOZ1FpVmttdjFiaVFKdmpYVVpzTW1HMVY4QmRVQ0JLSFZFUDJrZ1hxTjFneDBwb2QyVEZicERtRENWSTVfVXZnSVMtbXVoc1ZnZDMyRkRXcVRtX3dYX1FzaTJ5OF95WUNnb0NlaktYU3JWeTB0a2VQcW1QRll1anotUy1ScGRCeTV2MDJkT3FaRHFFYVVNUkZ1U1Y5RmhKNWhsNUIyeGpTRkpuOVQ2VlNTMGw1VGNHQjZ4UW5sREZKOGdkZnoxbjJwaVRjTG0?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-21 14:20:23+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Sifting through NASA’s sky archive, a California teenager’s homemade AI flagged 1.5 million flickering objects, and astronomers are paying attention Futura, le média qui explore le monde
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

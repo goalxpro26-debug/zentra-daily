@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+  <meta charset='utf-8'/>
+  <meta content='width=device-width, initial-scale=1' name='viewport'/>
+  <title><data:blog.pageTitle/></title>
+  <b:if cond='data:blog.metaDescription'>
+    <meta expr:content='data:blog.metaDescription' name='description'/>
+  </b:if>
+  <link href='https://raw.githubusercontent.com/goalxpro26-debug/zentra-daily/main/public/favicon.svg' rel='icon' type='image/svg+xml'/>
+  <b:include data='blog' name='all-head-content'/>
+  <b:skin><![CDATA[
+    /* Zentra Daily — ported from the Astro site (zentra-daily.pages.dev) */
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif;
+      background: linear-gradient(180deg, #cfcfcf 0%, #dcdcdc 40%, #c9c9c9 100%);
+      color: #111;
+      line-height: 1.55;
+    }
+    a { color: #111; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    img { max-width: 100%; height: auto; }
+    .zd-page { max-width: 1180px; margin: 28px auto 48px; padding: 0 18px; }
+    .zd-card {
+      background: #fff; border-radius: 22px; padding: 26px 34px 40px;
+      box-shadow: 0 18px 50px rgba(0,0,0,.18);
+    }
+    /* Header */
+    .zd-topbar { display: flex; align-items: center; gap: 16px; padding: 6px 0 18px; border-bottom: 1px solid #e6e6e6; }
+    .zd-topbar .zd-icon { font-size: 20px; color: #222; }
+    .zd-topbar .zd-divider { width: 1px; height: 26px; background: #ddd; flex: none; }
+    .zd-wordmark { flex: 1; text-align: center; font-size: 30px; font-weight: 900; letter-spacing: .06em; }
+    .zd-wordmark a:hover { text-decoration: none; }
+    .zd-profile { width: 38px; height: 38px; border-radius: 50%; border: 1.5px solid #111; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 15px; flex: none; }
+    .zd-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 26px; padding: 16px 0 24px; }
+    .zd-nav a { color: #777; font-size: 14.5px; }
+    .zd-nav a:hover { color: #111; text-decoration: none; }
+    /* Homepage grid */
+    .zd-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
+    .zd-news-card { border: 1px solid #ececec; border-radius: 14px; overflow: hidden; background: #fff; }
+    .zd-thumb { height: 150px; display: flex; align-items: flex-end; padding: 12px; background-color: #e8e8e8; background-size: cover; background-position: center; }
+    .zd-thumb:hover { text-decoration: none; }
+    .zd-tag { background: rgba(255,255,255,.92); color: #111; font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; padding: 5px 10px; border-radius: 999px; }
+    .zd-card-body { padding: 14px 16px 18px; }
+    .zd-card-body h3 { font-size: 17px; line-height: 1.3; font-weight: 800; margin-bottom: 8px; }
+    .zd-card-body h3 a:hover { text-decoration: underline; }
+    .zd-card-body p { color: #777; font-size: 14px; }
+    .zd-byline { display: flex; align-items: center; gap: 10px; margin: 12px 0 0; font-size: 13px; color: #888; }
+    .zd-byline .zd-avatar { width: 26px; height: 26px; border-radius: 50%; background: #111; color: #fff; display: inline-flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 800; flex: none; }
+    .zd-byline b { color: #111; }
+    .zd-byline .zd-time { margin-left: auto; }
+    /* First post = hero, like the Astro homepage */
+    .zd-grid > article:first-child { grid-column: 1 / -1; display: grid; grid-template-columns: 58% 1fr; }
+    .zd-grid > article:first-child .zd-thumb { height: 100%; min-height: 300px; }
+    .zd-grid > article:first-child .zd-card-body { padding: 24px 26px; display: flex; flex-direction: column; justify-content: center; }
+    .zd-grid > article:first-child .zd-card-body h3 { font-size: 30px; line-height: 1.15; }
+    .zd-grid > article:first-child .zd-card-body p { font-size: 15.5px; }
+    /* Pager */
+    .zd-pager { display: flex; justify-content: space-between; margin-top: 34px; font-weight: 800; font-size: 15px; }
+    /* Article page */
+    .zd-article { max-width: 760px; margin: 0 auto; }
+    .zd-cat { font-size: 12px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: #555; margin-bottom: 6px; }
+    .zd-cat a { color: #555; }
+    .zd-article h1 { font-size: 40px; line-height: 1.12; font-weight: 900; margin: 10px 0 6px; }
+    .zd-article .zd-byline { font-size: 14px; margin: 16px 0 10px; }
+    .zd-article .zd-byline .zd-avatar { width: 30px; height: 30px; font-size: 12px; }
+    .zd-prose { margin-top: 18px; }
+    .zd-prose p { margin-bottom: 16px; font-size: 17px; line-height: 1.7; color: #222; }
+    .zd-prose h2 { font-size: 22px; font-weight: 900; margin: 28px 0 10px; }
+    .zd-prose ul, .zd-prose ol { margin: 0 0 16px 22px; }
+    .zd-prose li { font-size: 15px; color: #333; margin-bottom: 6px; }
+    .zd-prose a { text-decoration: underline; }
+    .zd-prose figure { margin: 8px 0 22px; }
+    .zd-prose figcaption { color: #888; font-size: 13px; margin-top: 8px; }
+    .zd-prose img { border-radius: 12px; }
+    .zd-back { margin-top: 30px; padding-top: 18px; border-top: 1px solid #eee; font-weight: 800; font-size: 15px; }
+    /* Footer */
+    .zd-footer { margin-top: 44px; padding-top: 22px; border-top: 1px solid #e6e6e6; color: #888; font-size: 13.5px; display: flex; flex-wrap: wrap; gap: 8px 22px; justify-content: space-between; }
+    .zd-footer a { color: #888; }
+    @media (max-width: 860px) {
+      .zd-card { padding: 20px 18px 32px; border-radius: 16px; }
+      .zd-wordmark { font-size: 21px; }
+      .zd-grid { grid-template-columns: 1fr; }
+      .zd-grid > article:first-child { grid-template-columns: 1fr; }
+      .zd-grid > article:first-child .zd-thumb { min-height: 200px; }
+      .zd-grid > article:first-child .zd-card-body h3 { font-size: 24px; }
+      .zd-article h1 { font-size: 30px; }
+      .zd-nav { gap: 4px 16px; }
+    }
+  ]]></b:skin>
+  <b:template-skin><![CDATA[
+    body#layout .zd-card { box-shadow: none; }
+    body#layout .section { margin: 0; }
+  ]]></b:template-skin>
+</head>
+<body>
+  <div class='zd-page'>
+    <div class='zd-card'>
+      <header class='zd-topbar'>
+        <a class='zd-icon' expr:href='data:blog.homepageUrl + "search"' title='Search'>⌕</a>
+        <span class='zd-divider'/>
+        <span class='zd-icon' title='Menu'>☰</span>
+        <div class='zd-wordmark'><a expr:href='data:blog.homepageUrl'>ZENTRA DAILY</a></div>
+        <span class='zd-icon' title='X'>𝕏</span>
+        <span class='zd-icon' title='Facebook'>f</span>
+        <span class='zd-divider'/>
+        <span class='zd-profile' title='Zentra Daily'>ZD</span>
+      </header>
+      <nav class='zd-nav'>
+        <a expr:href='data:blog.homepageUrl'>Home</a>
+        <a expr:href='data:blog.homepageUrl + "search/label/World"'>World</a>
+        <a expr:href='data:blog.homepageUrl + "search/label/Politics"'>Politics</a>
+        <a expr:href='data:blog.homepageUrl + "search/label/Sports"'>Sports</a>
+        <a expr:href='data:blog.homepageUrl + "search/label/Business%20%26%20Economy"'>Economy</a>
+        <a expr:href='data:blog.homepageUrl + "search/label/Technology%20%26%20AI"'>Technology</a>
+        <a expr:href='data:blog.homepageUrl + "search/label/Science%20%26%20Environment"'>Science</a>
+        <a expr:href='data:blog.homepageUrl + "search/label/Health"'>Health</a>
+        <a expr:href='data:blog.homepageUrl + "search/label/Entertainment"'>Entertainment</a>
+        <a expr:href='data:blog.homepageUrl + "search/label/Learning"'>Learning</a>
+      </nav>
+
+      <b:section class='main' id='main' showaddelement='no'>
+        <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='1'>
+          <b:widget-settings>
+            <b:widget-setting name='showDateHeader'>false</b:widget-setting>
+            <b:widget-setting name='showShareButtons'>false</b:widget-setting>
+            <b:widget-setting name='showCommentLink'>false</b:widget-setting>
+            <b:widget-setting name='showAuthor'>true</b:widget-setting>
+            <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+            <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+            <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+            <b:widget-setting name='showLabels'>true</b:widget-setting>
+            <b:widget-setting name='showPostShareButtons'>false</b:widget-setting>
+          </b:widget-settings>
+          <b:includable id='main' var='top'>
+            <b:if cond='data:blog.pageType == "item" or data:blog.pageType == "static_page"'>
+              <b:loop values='data:posts' var='post'>
+                <article class='zd-article'>
+                  <div class='zd-cat'>
+                    <b:loop values='data:post.labels' var='label'>
+                      <a expr:href='data:label.url'><data:label.name/></a>
+                    </b:loop>
+                  </div>
+                  <h1><data:post.title/></h1>
+                  <div class='zd-byline'>
+                    <span class='zd-avatar'>ZD</span>
+                    <span>By <b><data:post.author/></b></span>
+                    <span class='zd-time'><data:post.timestamp/></span>
+                  </div>
+                  <div class='zd-prose'>
+                    <data:post.body/>
+                  </div>
+                  <div class='zd-back'>
+                    <a expr:href='data:blog.homepageUrl'>← Back to Zentra Daily</a>
+                  </div>
+                </article>
+              </b:loop>
+            <b:else/>
+              <div class='zd-grid'>
+                <b:loop values='data:posts' var='post'>
+                  <article class='zd-news-card'>
+                    <b:if cond='data:post.featuredImage'>
+                      <a class='zd-thumb' expr:href='data:post.url' expr:style='"background-image:url(" + data:post.featuredImage + ")"'>
+                        <span class='zd-tag'>
+                          <b:loop values='data:post.labels' var='label'><data:label.name/></b:loop>
+                        </span>
+                      </a>
+                    <b:else/>
+                      <a class='zd-thumb' expr:href='data:post.url'>
+                        <span class='zd-tag'>
+                          <b:loop values='data:post.labels' var='label'><data:label.name/></b:loop>
+                        </span>
+                      </a>
+                    </b:if>
+                    <div class='zd-card-body'>
+                      <h3><a expr:href='data:post.url'><data:post.title/></a></h3>
+                      <p><data:post.snippet/></p>
+                      <div class='zd-byline'>
+                        <span class='zd-avatar'>ZD</span>
+                        <span><data:post.author/></span>
+                        <span class='zd-time'><data:post.timestamp/></span>
+                      </div>
+                    </div>
+                  </article>
+                </b:loop>
+              </div>
+              <div class='zd-pager'>
+                <span>
+                  <b:if cond='data:newerPageUrl'>
+                    <a expr:href='data:newerPageUrl'>← Newer posts</a>
+                  </b:if>
+                </span>
+                <span>
+                  <b:if cond='data:olderPageUrl'>
+                    <a expr:href='data:olderPageUrl'>Older posts →</a>
+                  </b:if>
+                </span>
+              </div>
+            </b:if>
+          </b:includable>
+        </b:widget>
+      </b:section>
+
+      <footer class='zd-footer'>
+        <span>© 2026 Zentra Daily — World news, sports, entertainment, AI &amp; learning, clearly explained.</span>
+        <span><a expr:href='data:blog.homepageUrl'>Home</a> · <a expr:href='data:blog.homepageUrl + "search/label/World"'>Top News</a></span>
+      </footer>
+    </div>
+  </div>
+</body>
+</html>

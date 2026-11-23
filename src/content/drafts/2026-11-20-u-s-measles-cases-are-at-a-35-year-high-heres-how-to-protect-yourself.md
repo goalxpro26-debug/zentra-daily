@@ -1,0 +1,44 @@
+---
+title: "U.S. measles cases are at a 35-year high. Here’s how to protect yourself. - The Washington Post"
+sourceName: "The Washington Post"
+sourceUrl: "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNoR2JFQ1FlN0pEUXh5Um9sVDVrelhyLVdObHctZnJHUUpGeWpWUU5uWmU1eUdQOXJKNElIRWJLTEFtUDRKY0pYSDN0QmdSR05CblVHUUszc0RBSUNQdEhSbmpFbmwwbHFucmt1aGRnSzgyWUlnd1MzVHRoRnNTbXAxd2RFQkgzWnJsTDFzYXF5Q0ZLSEtTTXNUTFFuSE9Ja1JQYkVTTHJOR1BOSGpBZWpB?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Health"
+categorySlug: "health"
+published: "2026-11-20T18:32:56+00:00"
+fetched: "2026-11-20T18:57:07.199830+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [The Washington Post]
+(https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNoR2JFQ1FlN0pEUXh5Um9sVDVrelhyLVdObHctZnJHUUpGeWpWUU5uWmU1eUdQOXJKNElIRWJLTEFtUDRKY0pYSDN0QmdSR05CblVHUUszc0RBSUNQdEhSbmpFbmwwbHFucmt1aGRnSzgyWUlnd1MzVHRoRnNTbXAxd2RFQkgzWnJsTDFzYXF5Q0ZLSEtTTXNUTFFuSE9Ja1JQYkVTTHJOR1BOSGpBZWpB?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-20 18:32:56+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+U.S. measles cases are at a 35-year high. Here’s how to protect yourself. The Washington Post Vermont grapples with measles as US loses elimination status VTDigger U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health The New York Times The return of endemic measles is a likely harbinger of future crises CIDRAP After US officially loses measles elimination status, RFK Jr. says will 'work to regain' it ABC News - Breaking News, Latest News and Videos
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

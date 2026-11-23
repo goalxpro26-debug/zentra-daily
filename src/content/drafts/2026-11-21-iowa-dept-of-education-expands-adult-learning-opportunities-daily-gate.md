@@ -1,0 +1,44 @@
+---
+title: "Iowa Dept. of Education expands adult learning opportunities - Daily Gate City"
+sourceName: "Daily Gate City"
+sourceUrl: "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQWtFQlFKM3FOeVB5WS1aTVl5Z1dhZThTZGlUM3VNbjBsSTA0SV9UWUxvb2xSOXFmcy1aMktSZE5VMU1VQ0NFYXpveVpacjVPd01rYXpoX2UxVm5TbXo5RFlKcmVubVBwWHF2ZDZBNVptTnBwUGxUaG5JMFdYa05kM2pZR0VPVHJ2SVNhMEFKMmp5Yk5GOTEtcFN6WWFRZWV4Nk53cVh2cDJPQkdYanRxM3ptc1VOX1B3V2RNUkFVNGtmaW52NE1rZGlUQWcyVVhVczhsTVhMQUFUTl9BcjBhS1NYbnd2bzcwUURlM3BEdkRPcGpfR2taZjMxeDU?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Learning"
+categorySlug: "learning"
+published: "2026-11-21T06:00:00+00:00"
+fetched: "2026-11-21T08:57:43.656285+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [Daily Gate City]
+(https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQWtFQlFKM3FOeVB5WS1aTVl5Z1dhZThTZGlUM3VNbjBsSTA0SV9UWUxvb2xSOXFmcy1aMktSZE5VMU1VQ0NFYXpveVpacjVPd01rYXpoX2UxVm5TbXo5RFlKcmVubVBwWHF2ZDZBNVptTnBwUGxUaG5JMFdYa05kM2pZR0VPVHJ2SVNhMEFKMmp5Yk5GOTEtcFN6WWFRZWV4Nk53cVh2cDJPQkdYanRxM3ptc1VOX1B3V2RNUkFVNGtmaW52NE1rZGlUQWcyVVhVczhsTVhMQUFUTl9BcjBhS1NYbnd2bzcwUURlM3BEdkRPcGpfR2taZjMxeDU?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-21 06:00:00+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Iowa Dept. of Education expands adult learning opportunities Daily Gate City
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

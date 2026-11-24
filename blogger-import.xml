@@ -4,7 +4,7 @@
   <id>tag:blogger.com,1999:blog-5791451479325314145</id>
   <title type="text">Zentra Daily</title>
   <subtitle type="text">World news, sports, entertainment, AI &amp; learning, clearly explained.</subtitle>
-  <updated>2026-11-24T07:06:02+00:00</updated>
+  <updated>2026-11-24T08:00:58+00:00</updated>
   <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
   <generator version="7.00" uri="http://www.blogger.com">Blogger</generator>
   <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default"/>
@@ -11350,6 +11350,42 @@
     <link rel="edit" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000350"/>
     <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000350"/>
     <link rel="alternate" type="text/html" href="https://zentradaily.blogspot.com/2026/11/thanksgiving-noreaster-bomb-cyclone-east-coast-storm.html" title="Thanksgiving storm threatens East Coast travel as nor'easter may become a bomb cyclone"/>
+    <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-5791451479325314145.post-7000000000000000351</id>
+    <published>2026-11-24T08:00:58+00:00</published>
+    <updated>2026-11-24T08:00:58+00:00</updated>
+    <category scheme="http://schemas.google.com/blogger/2008/kind" term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Technology &amp; AI"/>
+    <title type="text">Kagi takes on Gmail with a private email service in public beta</title>
+    <content type="html">&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/goalxpro26-debug/zentra-daily/main/public/images/articles/kagi-mail-public-beta-takes-on-gmail.webp" alt="Kagi takes on Gmail with a private email service in public beta" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kagi, the company behind a paid alternative to Google Search and the Orion web browser, is taking on another Google service. On Monday it opened a public beta of Kagi Mail, a paid email service it describes as having "no surveillance, no ads, open standards, and no lock-in."&lt;/p&gt;
+&lt;p&gt;The launch puts Kagi in direct competition with Gmail, the world's most widely used free email service, and with paid privacy focused providers such as Fastmail and Tuta. Kagi acknowledged the crowded field in its announcement, saying it asked itself more than once whether the world needed another email service before deciding to build one anyway.&lt;/p&gt;
+&lt;h2&gt;What Kagi Mail includes&lt;/h2&gt;
+&lt;p&gt;Subscribers get an address at @kagimail.com, with support for unlimited aliases and their own custom domains. The service includes 50GB of storage and a built-in calendar, and it is built on Stalwart, an open source mail server. It supports open standards including IMAP, JMAP and CalDAV, so customers can use Kagi's own clients or a third party app such as Apple Mail or Thunderbird.&lt;/p&gt;
+&lt;p&gt;The service also includes an AI layer that draws on the user's existing Kagi allowance and can be switched off. A headline feature called Highlights flags messages that need attention, such as mail waiting for a reply or carrying a due date, rather than summarising the inbox automatically.&lt;/p&gt;
+&lt;h2&gt;Price and what is still to come&lt;/h2&gt;
+&lt;p&gt;Kagi Mail is available now with a 60-day free trial. After the trial it costs $99 a year plus sales tax as a standalone subscription, or it is included in Kagi Ultimate, the company's $25 a month bundle covering search, the Assistant and its other products.&lt;/p&gt;
+&lt;p&gt;Not everything is ready on day one. Kagi says contacts and a full address book are planned for the first quarter of 2027, with fuller integration of its Assistant around the same time. Native mobile apps are further out, scheduled for the third quarter of 2027. Customers who leave keep access to their mailbox for six months, with sending and receiving for the first 60 days and read and export access for the remaining four.&lt;/p&gt;
+&lt;h2&gt;A paid model in a free market&lt;/h2&gt;
+&lt;p&gt;The launch extends Kagi's strategy of charging users directly instead of selling advertising. The company, a small profitable team based in Palo Alto, has built its search engine and browser on the same user funded model, and it presents Mail as the third part of that lineup.&lt;/p&gt;
+&lt;p&gt;Whether enough people will pay $99 a year for email remains the open question. Gmail costs nothing and comes bundled with the rest of Google's services, while established paid providers already serve the privacy conscious market Kagi is targeting. Kagi's answer is that an email service should do its job and then get out of the way, and it is betting that a growing number of users agree.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative"&gt;The Verge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.kagi.com/kagi-mail-public-beta"&gt;Kagi Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techaeris.com/2026/11/23/kagi-mail-opens-to-public-beta-99-a-year/"&gt;Techaeris&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="https://zentradaily.blogspot.com/feeds/7000000000000000351/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="https://zentradaily.blogspot.com/2026/11/kagi-mail-public-beta-takes-on-gmail.html#comment-form" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000351"/>
+    <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000351"/>
+    <link rel="alternate" type="text/html" href="https://zentradaily.blogspot.com/2026/11/kagi-mail-public-beta-takes-on-gmail.html" title="Kagi takes on Gmail with a private email service in public beta"/>
     <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
     <thr:total>0</thr:total>
   </entry>

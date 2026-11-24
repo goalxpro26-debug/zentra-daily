@@ -4,7 +4,7 @@
   <id>tag:blogger.com,1999:blog-5791451479325314145</id>
   <title type="text">Zentra Daily</title>
   <subtitle type="text">World news, sports, entertainment, AI &amp; learning, clearly explained.</subtitle>
-  <updated>2026-11-24T00:03:28+00:00</updated>
+  <updated>2026-11-24T01:08:43+00:00</updated>
   <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
   <generator version="7.00" uri="http://www.blogger.com">Blogger</generator>
   <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default"/>
@@ -11109,6 +11109,37 @@
     <link rel="edit" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000343"/>
     <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000343"/>
     <link rel="alternate" type="text/html" href="https://zentradaily.blogspot.com/2026/11/drone-attack-cucuta-police-base-injures-civilians.html" title="Drone attack hits Colombian police base in Cúcuta, injuring three civilians"/>
+    <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-5791451479325314145.post-7000000000000000344</id>
+    <published>2026-11-24T01:08:43+00:00</published>
+    <updated>2026-11-24T01:08:43+00:00</updated>
+    <category scheme="http://schemas.google.com/blogger/2008/kind" term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Science &amp; Environment"/>
+    <title type="text">One shared code in the brain links 21 languages, MIT study finds</title>
+    <content type="html">&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/goalxpro26-debug/zentra-daily/main/public/images/articles/brains-share-one-code-across-21-languages.webp" alt="One shared code in the brain links 21 languages, MIT study finds" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The human brain may process every language through one shared code, according to a new MIT study published in Nature Neuroscience. Brain scans of people speaking 21 different languages — from Vietnamese to Lithuanian — revealed a common pattern in how the brain handles language, one that appears to be about meaning rather than grammar or sound.&lt;/p&gt;
+&lt;p&gt;Scientists have long known that all languages activate the same network of regions in the left hemisphere of the brain. What they did not know was whether the brain actually processes those languages in the same way. A team led by Andrea Gregor de Varda, a postdoctoral researcher at MIT, and Evelina Fedorenko, senior author and investigator at MIT's McGovern Institute for Brain Research, set out to answer that question with help from artificial intelligence.&lt;/p&gt;
+&lt;p&gt;The researchers used multilingual language models — AI systems trained to handle hundreds of languages at once — to build "encoding models" that predict how the brain responds to a sentence. They combined the models' numerical representations of language with brain scans of people listening to stories from "Alice in Wonderland" in their native tongues.&lt;/p&gt;
+&lt;p&gt;The lab already had brain imaging data from speakers of 12 languages, including Afrikaans, Dutch, Farsi, French, Marathi, Spanish, Tamil and Vietnamese. For the new study, the team recruited speakers of nine more — Italian, Portuguese, German, Russian, Polish, Hindi, Arabic, Mandarin and Korean — bringing the total to 21 languages across several language families.&lt;/p&gt;
+&lt;p&gt;The encoding models accurately predicted brain responses in every language tested, even in Marathi and Lithuanian, for which the researchers had relatively little data. More striking still, a model trained on one language could predict brain activity in a language it had never seen. A model trained on French responses, for example, could predict how a Vietnamese speaker's brain would respond. That kind of transfer is only possible, the researchers say, if all the speakers' brains represent language in a shared way.&lt;/p&gt;
+&lt;p&gt;When the team picked apart which linguistic features drove that shared signal, the evidence pointed to meaning — the information and feelings people are trying to share — rather than word order or sound patterns.&lt;/p&gt;
+&lt;p&gt;The finding could matter beyond neuroscience. AI language tools are increasingly used to detect cognitive decline from brain activity during speech, but most are built for widely studied languages such as English. Showing that the brain's language code is shared across diverse languages could help extend those tools to far more speakers. Fedorenko also suggested the approach could one day help preserve endangered languages, by training a model in reverse — from a single speaker's brain activity back into language.&lt;/p&gt;
+&lt;p&gt;The researchers caution that languages also differ in clear ways, and those differences must be represented in the brain as well. Mapping them is the next step.&lt;/p&gt;
+&lt;h2&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"&gt;MIT News&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://doi.org/10.1038/s41593-026-02523-6"&gt;Nature Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="https://zentradaily.blogspot.com/feeds/7000000000000000344/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="https://zentradaily.blogspot.com/2026/11/brains-share-one-code-across-21-languages.html#comment-form" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000344"/>
+    <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000344"/>
+    <link rel="alternate" type="text/html" href="https://zentradaily.blogspot.com/2026/11/brains-share-one-code-across-21-languages.html" title="One shared code in the brain links 21 languages, MIT study finds"/>
     <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
     <thr:total>0</thr:total>
   </entry>

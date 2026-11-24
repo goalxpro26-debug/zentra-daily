@@ -4,7 +4,7 @@
   <id>tag:blogger.com,1999:blog-5791451479325314145</id>
   <title type="text">Zentra Daily</title>
   <subtitle type="text">World news, sports, entertainment, AI &amp; learning, clearly explained.</subtitle>
-  <updated>2026-11-24T05:09:54+00:00</updated>
+  <updated>2026-11-24T06:07:55+00:00</updated>
   <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
   <generator version="7.00" uri="http://www.blogger.com">Blogger</generator>
   <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default"/>
@@ -11275,6 +11275,43 @@
     <link rel="edit" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000348"/>
     <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000348"/>
     <link rel="alternate" type="text/html" href="https://zentradaily.blogspot.com/2026/11/ancient-rift-stirs-beneath-southern-africa.html" title="Ancient rift beneath Botswana shows signs of stirring back to life"/>
+    <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-5791451479325314145.post-7000000000000000349</id>
+    <published>2026-11-24T06:07:55+00:00</published>
+    <updated>2026-11-24T06:07:55+00:00</updated>
+    <category scheme="http://schemas.google.com/blogger/2008/kind" term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Technology &amp; AI"/>
+    <title type="text">Google's AI Mode can now read your Wallet, with Drive and Gemini chats to follow</title>
+    <content type="html">&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/goalxpro26-debug/zentra-daily/main/public/images/articles/google-ai-mode-wallet-drive-gemini.webp" alt="Google's AI Mode can now read your Wallet, with Drive and Gemini chats to follow" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Google Search's AI Mode is getting a much closer look at its users' digital lives. Google announced on Monday that its Personal Intelligence feature, which tailors AI Mode answers using information from a person's own Google apps, is expanding to Google Wallet, Google Drive and the Gemini app. The Wallet connection starts rolling out now; Drive and Gemini support will follow in the coming weeks.&lt;/p&gt;
+&lt;p&gt;Personal Intelligence already draws on Gmail, Google Calendar and Google Photos; the three new connections extend that to spending, documents and chat history.&lt;/p&gt;
+&lt;h2&gt;What Wallet adds&lt;/h2&gt;
+&lt;p&gt;Connecting Google Wallet lets AI Mode use spending information to help map out financial milestones, find ways to trim everyday spending, and get more from credit card benefits, such as cash-back categories, travel perks and reward points, based on the cards linked in Wallet.&lt;/p&gt;
+&lt;p&gt;Google is explicit about the limits: the connection is read-only. AI Mode can look at information from a person's accounts, but it cannot move, manage or invest their money. The same Wallet connection also works in the Gemini app, so the context carries across both places.&lt;/p&gt;
+&lt;h2&gt;Drive and Gemini come next&lt;/h2&gt;
+&lt;p&gt;With Google Drive connected, AI Mode will be able to pull together information scattered across a person's documents, spreadsheets and PDFs. Google's example is a personalised tax-season preparation plan built from the files already in Drive.&lt;/p&gt;
+&lt;p&gt;The Gemini app connection works in both directions. If a person explores an idea in the Gemini app, AI Mode in Search will have that foundation to build on, and vice versa, so a conversation does not have to start from scratch. According to 9to5Google, AI Mode will be able to draw on Gemini chats and material shared with the Gemini app, such as photos, files and attachments.&lt;/p&gt;
+&lt;h2&gt;Still the user's choice&lt;/h2&gt;
+&lt;p&gt;Every connection is opt-in. To turn them on, users open Search Personalization in their Google Search settings, select Connected Apps and choose which apps to link. Connections can be switched off at any time, and Google says a "Personalization" icon will soon let people see the context AI Mode is using below a tailored response. If something is wrong, users can correct it in the conversation, for example by telling AI Mode they are no longer vegetarian.&lt;/p&gt;
+&lt;p&gt;AI Overviews and AI Mode responses are also becoming more personally relevant, tailored to recent search context, so someone planning a trip can pick up where they left off instead of repeating themselves.&lt;/p&gt;
+&lt;p&gt;The feature is limited to adults with a personal Google account, and availability varies by country and language. Only the Wallet connection is rolling out for now; Drive and the Gemini app follow in the coming weeks.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"&gt;TechCrunch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://9to5google.com/2026/11/23/ai-mode-wallet-gemini/"&gt;9to5Google&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="https://zentradaily.blogspot.com/feeds/7000000000000000349/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="https://zentradaily.blogspot.com/2026/11/google-ai-mode-wallet-drive-gemini.html#comment-form" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000349"/>
+    <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000349"/>
+    <link rel="alternate" type="text/html" href="https://zentradaily.blogspot.com/2026/11/google-ai-mode-wallet-drive-gemini.html" title="Google's AI Mode can now read your Wallet, with Drive and Gemini chats to follow"/>
     <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
     <thr:total>0</thr:total>
   </entry>

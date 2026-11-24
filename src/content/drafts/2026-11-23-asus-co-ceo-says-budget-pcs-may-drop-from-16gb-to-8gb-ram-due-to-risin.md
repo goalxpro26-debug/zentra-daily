@@ -1,0 +1,44 @@
+---
+title: "ASUS co-CEO says budget PCs may drop from 16GB to 8GB RAM due to rising memory prices - VideoCardz.com"
+sourceName: "Google News"
+sourceUrl: "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVk5wVWNLUWhYMTNHX0k5d0tROHN5bURrY0hTZ2RhVDdvZm02b2hYRGdZV0tnX3pQa0lfbGVxZXAxdGRRdmtxaXAxS0RsMnNBdVQ2a05weldHUDhZcDN6THpsdnpyQ0ptamlLNVdVMUZCYmp1cVdybVRveEZ2Zkc5Mm56UXFXaDBDVC01NThoTlphbHNGV25zcFkwaHVSbmdJdzJ5WXpLUTFYVGpKOFl0WHBVNA?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Technology & AI"
+categorySlug: "technology-ai"
+published: "2026-11-23T19:39:34+00:00"
+fetched: "2026-11-24T11:57:13.758701+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [Google News]
+(https://news.google.com/rss/articles/CBMiswFBVV95cUxPVk5wVWNLUWhYMTNHX0k5d0tROHN5bURrY0hTZ2RhVDdvZm02b2hYRGdZV0tnX3pQa0lfbGVxZXAxdGRRdmtxaXAxS0RsMnNBdVQ2a05weldHUDhZcDN6THpsdnpyQ0ptamlLNVdVMUZCYmp1cVdybVRveEZ2Zkc5Mm56UXFXaDBDVC01NThoTlphbHNGV25zcFkwaHVSbmdJdzJ5WXpLUTFYVGpKOFl0WHBVNA?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-23 19:39:34+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+ASUS co-CEO says budget PCs may drop from 16GB to 8GB RAM due to rising memory prices VideoCardz.com See more headlines & perspectives on Google News
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

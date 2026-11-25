@@ -4,7 +4,7 @@
   <id>tag:blogger.com,1999:blog-5791451479325314145</id>
   <title type="text">Zentra Daily</title>
   <subtitle type="text">World news, sports, entertainment, AI &amp; learning, clearly explained.</subtitle>
-  <updated>2026-11-25T12:01:14+00:00</updated>
+  <updated>2026-11-25T13:06:45+00:00</updated>
   <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
   <generator version="7.00" uri="http://www.blogger.com">Blogger</generator>
   <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default"/>
@@ -12295,6 +12295,35 @@
     <link rel="edit" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000379"/>
     <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000379"/>
     <link rel="alternate" type="text/html" href="https://zentradaily.blogspot.com/2026/11/eu-plans-50bn-sovereign-tech-fund-ai-quantum.html" title="Brussels plans a €50bn fund to back European AI and quantum firms"/>
+    <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-5791451479325314145.post-7000000000000000380</id>
+    <published>2026-11-25T13:06:45+00:00</published>
+    <updated>2026-11-25T13:06:45+00:00</updated>
+    <category scheme="http://schemas.google.com/blogger/2008/kind" term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Technology &amp; AI"/>
+    <title type="text">Claude artifacts can now be installed as desktop apps on Mac and Windows</title>
+    <content type="html">&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/goalxpro26-debug/zentra-daily/main/public/images/articles/anthropic-claude-artifacts-install-as-desktop-apps.webp" alt="Claude artifacts can now be installed as desktop apps on Mac and Windows" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic said on Tuesday that Claude users can now turn the interactive tools the chatbot builds — known as artifacts — into desktop apps on Mac and Windows. The "Install as app" feature is rolling out in beta on every plan, including the free tier.&lt;/p&gt;
+&lt;p&gt;An artifact installed as an app gets its own icon and opens in its own window, instead of living inside a Claude conversation. The process is short: describe the tool to Claude, try it out as an artifact, then choose "Install as app" from the artifact's Share menu. No packaging, code signing or API key is involved, and the resulting app can be shared with other Claude users. The kinds of tools Anthropic points to are small and practical — a timer, a tracker, a tool that renames photos — rather than full-scale software.&lt;/p&gt;
+&lt;p&gt;Installed apps can do more than a web page could. They can send desktop notifications, register global keyboard shortcuts, float in an always-on-top window, and add an item to the Mac menu bar or the Windows system tray. They can also call on Claude and on services a user has linked to it, so a tracker that reads a calendar no longer has to live in a browser tab.&lt;/p&gt;
+&lt;p&gt;That extra reach is where the permission system comes in. Every installed app starts at the default level, where it can only do what it could do inside a browser. A second level, app permissions, lets it request desktop features such as notifications and shortcuts. The highest level, full computer access, lets an app run programs and read, change or delete files without asking each time. Anthropic says it does not review apps before they are installed, and full access is only available for apps a person built themselves — or, on Team and Enterprise plans, apps built by someone in their own organisation. Permissions are requested again after every update, including the owner's own edits.&lt;/p&gt;
+&lt;p&gt;There are limits to what the feature offers for now. An installed app needs an internet connection and an active Claude sign-in to open at all, and anything it asks Claude counts toward the user's plan usage limits. It requires Claude for Mac or Windows version 6.28899.0 or later. Document-style artifacts — Claude Docs, Slides and Sheets — cannot be installed, and Linux, the web and mobile are not supported at launch. For Team subscribers the feature is switched on by default, with full computer access off; for Enterprise subscribers it stays off until an administrator enables it. Organisations with HIPAA-ready configurations do not get it.&lt;/p&gt;
+&lt;p&gt;The move takes artifacts out of the chatbot and onto the desktop, where the small tools people build with Claude can sit alongside the programs they already use. It is the second Claude update this week aimed at people building with the tool.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps/"&gt;9to5Mac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/"&gt;MacRumors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="https://zentradaily.blogspot.com/feeds/7000000000000000380/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="https://zentradaily.blogspot.com/2026/11/anthropic-claude-artifacts-install-as-desktop-apps.html#comment-form" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000380"/>
+    <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000380"/>
+    <link rel="alternate" type="text/html" href="https://zentradaily.blogspot.com/2026/11/anthropic-claude-artifacts-install-as-desktop-apps.html" title="Claude artifacts can now be installed as desktop apps on Mac and Windows"/>
     <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
     <thr:total>0</thr:total>
   </entry>

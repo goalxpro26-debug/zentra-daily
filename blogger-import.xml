@@ -4,7 +4,7 @@
   <id>tag:blogger.com,1999:blog-5791451479325314145</id>
   <title type="text">Zentra Daily</title>
   <subtitle type="text">World news, sports, entertainment, AI &amp; learning, clearly explained.</subtitle>
-  <updated>2026-11-26T06:01:09+00:00</updated>
+  <updated>2026-11-26T07:04:35+00:00</updated>
   <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
   <generator version="7.00" uri="http://www.blogger.com">Blogger</generator>
   <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default"/>
@@ -12858,6 +12858,37 @@
     <link rel="edit" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000397"/>
     <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000397"/>
     <link rel="alternate" type="text/html" href="https://zentradaily.blogspot.com/2026/11/musk-spacex-two-shares-every-american-child.html" title="Every American child to get two SpaceX shares in $18bn pledge, Musk says"/>
+    <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-5791451479325314145.post-7000000000000000398</id>
+    <published>2026-11-26T07:04:35+00:00</published>
+    <updated>2026-11-26T07:04:35+00:00</updated>
+    <category scheme="http://schemas.google.com/blogger/2008/kind" term="http://schemas.google.com/blogger/2008/kind#post"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Technology &amp; AI"/>
+    <title type="text">Google patent sketches an AI TV channel where you star in every show</title>
+    <content type="html">&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/goalxpro26-debug/zentra-daily/main/public/images/articles/google-my-channel-ai-tv-patent.webp" alt="Google patent sketches an AI TV channel where you star in every show" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Google has sketched out a television channel with an audience of one: you. A patent application published by the US Patent and Trademark Office last week describes "My Channel", a feed of AI-generated shows tailored to a single viewer — with that viewer cast as the lead.&lt;/p&gt;
+&lt;p&gt;The filing, titled "Creating a Channel of Video Experiences Tailored to a User", was submitted on May 13, 2025 and published on November 19, 2026. It names two Google engineers, Aravind Reddy Ayuluri and Prameela Kavya Thummuru, as the inventors. The idea was first spotted by patent-tracking site Patentlyze and reported by 404 Media.&lt;/p&gt;
+&lt;p&gt;Instead of recommending shows that already exist, the system would ask a large language model to generate new video on the spot. It would draw on a viewer's watch history, preferences, demographic details such as age group, and device data such as language and location, and turn all of it into a prompt for the model. The result would appear as a channel on the TV home screen, labelled with the viewer's name and filled with tiles for shows made for them.&lt;/p&gt;
+&lt;p&gt;The filing goes further than tailored recommendations. In one version, the system would build a digital likeness of the viewer from their photographs and synthesise their voice, placing them at the centre of the story. A sample prompt in the application reads: "You are a customized video generating model. Generate a customized video for a user where the user will play the protagonist." The genres could range from romantic comedies to science-fiction adventures, following the style of whatever the viewer watches most.&lt;/p&gt;
+&lt;p&gt;Shows could be generated on request, or without any request — the filing describes automatic scheduling on a weekly, monthly or yearly basis. A second model could pull in current news, trends and sports scores to shape what gets made. And there is room for commercials: in one version, the video would be sent to an advertising server that inserts ads before streaming it to the TV.&lt;/p&gt;
+&lt;p&gt;There are two important caveats. First, a patent filing is not a product: Google has announced no plans to build My Channel, and the filing names no launch date. Second, according to Patentlyze, a patent examiner has already issued a final rejection of the application — though Google can still amend its claims or appeal.&lt;/p&gt;
+&lt;p&gt;Even so, the filing is a window into where television could be heading. YouTube, which Google owns, unveiled Custom Feeds earlier this autumn, letting viewers build hyper-specific homepages. A channel that generates its own shows would be the next step: no shared schedule, no shared hits, everyone watching something made only for them. As 404 Media noted, that could also mean fewer moments when many people watch the same thing and talk about it afterwards.&lt;/p&gt;
+&lt;p&gt;For now, the starring role is hypothetical. But the patent shows how much a TV knows about its owner — and how little stands between that knowledge and a show with your face in it.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Illustration — not a photograph.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://gizmodo.com/google-wants-to-make-ai-tv-shows-starring-you-2000844299"&gt;Gizmodo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.business-standard.com/technology/tech-news/what-if-your-next-tv-show-was-made-just-for-you-google-explores-the-idea-126112500289_1.html"&gt;Business Standard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="https://zentradaily.blogspot.com/feeds/7000000000000000398/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="https://zentradaily.blogspot.com/2026/11/google-my-channel-ai-tv-patent.html#comment-form" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000398"/>
+    <link rel="self" type="application/atom+xml" href="https://www.blogger.com/feeds/5791451479325314145/posts/default/7000000000000000398"/>
+    <link rel="alternate" type="text/html" href="https://zentradaily.blogspot.com/2026/11/google-my-channel-ai-tv-patent.html" title="Google patent sketches an AI TV channel where you star in every show"/>
     <author><name>Zentra Daily Newsroom</name><email>noreply@blogger.com</email></author>
     <thr:total>0</thr:total>
   </entry>

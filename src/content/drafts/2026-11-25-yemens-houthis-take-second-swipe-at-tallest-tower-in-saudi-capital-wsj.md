@@ -1,0 +1,44 @@
+---
+title: "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital - WSJ"
+sourceName: "WSJ"
+sourceUrl: "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjZVLVU3RnVMWXdvYUpUUkdTcVVCTjVvdkR1NG12eUNYalM5bTJVbVFndmFEZ2d1UGhUeEROM2lMcTRuMHBQQmh6amtpaWJIc0k1aHdBMEZvRUNEUndCYWJZZnIxS0x0OFNuRmgxMl90VEZKVVVwZVB2d0swTmpyQjdaejluSXRVeGNrVEMzU21zMkhIT21uSWNvM0cza1RYdkFDeW9OdVNIdGhtcW1PRTJmUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "World"
+categorySlug: "world"
+published: "2026-11-25T01:49:44+00:00"
+fetched: "2026-11-25T02:57:14.453396+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [WSJ]
+(https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjZVLVU3RnVMWXdvYUpUUkdTcVVCTjVvdkR1NG12eUNYalM5bTJVbVFndmFEZ2d1UGhUeEROM2lMcTRuMHBQQmh6amtpaWJIc0k1aHdBMEZvRUNEUndCYWJZZnIxS0x0OFNuRmgxMl90VEZKVVVwZVB2d0swTmpyQjdaejluSXRVeGNrVEMzU21zMkhIT21uSWNvM0cza1RYdkFDeW9OdVNIdGhtcW1PRTJmUQ?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-25 01:49:44+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital WSJ Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11 CNBC Iran war updates: Saudi-led coalition orders evacuation of Hodeidah Port Al Jazeera Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say The New York Times Fighting a Radical Militia Was Not Part of the Plan The Atlantic
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

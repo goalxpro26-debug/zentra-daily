@@ -1,0 +1,44 @@
+---
+title: "Live storm updates: Record king tides leave Bay Area roads flooded - ABC7 Bay Area"
+sourceName: "ABC7 Bay Area"
+sourceUrl: "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Politics"
+categorySlug: "politics"
+published: "2026-11-24T22:02:00+00:00"
+fetched: "2026-11-24T22:57:16.386407+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [ABC7 Bay Area]
+(https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-24 22:02:00+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Live storm updates: Record king tides leave Bay Area roads flooded ABC7 Bay Area ‘Extreme’ Flooding Is Feared in California as King Tides Near Records The New York Times King tides, powerful waves and incoming storm threaten Northern California coast NBC Bay Area San Francisco sports venues face coastal flooding conditions USA Today King tides flood Sunset Beach streets in Orange County KTLA
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

@@ -1,0 +1,44 @@
+---
+title: "Deadlocked final result in New Zealand’s election leaves a centrist newcomer as the decider - AP News"
+sourceName: "AP News"
+sourceUrl: "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUYyNjdXYjlOWm12Ukd3XzJLSUQwM1JtSlV3REh2bmIyWHdzelNCajRoNU4zYllONWRVLXRZY0pDVm16MVNtdWZzTlFmS0xMUHpzVFRIQnlVR2J1TlY2WE1zZVNZVmczeDA0cG50Y0VlSUk0SE1XRnBkOHgxU2hBdlJFMkpZdzZDWDFyUEo0alJ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "World"
+categorySlug: "world"
+published: "2026-11-27T05:04:00+00:00"
+fetched: "2026-11-27T07:56:45.365114+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [AP News]
+(https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUYyNjdXYjlOWm12Ukd3XzJLSUQwM1JtSlV3REh2bmIyWHdzelNCajRoNU4zYllONWRVLXRZY0pDVm16MVNtdWZzTlFmS0xMUHpzVFRIQnlVR2J1TlY2WE1zZVNZVmczeDA0cG50Y0VlSUk0SE1XRnBkOHgxU2hBdlJFMkpZdzZDWDFyUEo0alJ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-27 05:04:00+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Deadlocked final result in New Zealand’s election leaves a centrist newcomer as the decider AP News New Zealand election results: Ruling coalition loses parliamentary majority BBC Christopher Luxon favoured for second term as New Zealand Prime Minister Reuters New Zealand election: final results show ruling coalition needs minor party to govern The Guardian New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant Financial Times
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).

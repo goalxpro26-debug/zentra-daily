@@ -1,0 +1,44 @@
+---
+title: "Boston man Ariel Velasquez-Morales arrested by ICE days after winning $1 million lottery jackpot - 6abc Philadelphia"
+sourceName: "6abc Philadelphia"
+sourceUrl: "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUWhuaGtPQVpicjU2b3I3YkJ1d1pHM3U0Qmo1bU9oUHM4N3NzclAtQV9NMnFvelhvZ0JPRkhUYjVmY3RPX3cxSksyY3R2eGxNSTNfMDRCaGFBSXpyb09iclR2RF9BSG9NVTIzaXJUMGtzMnEyNmt4eXBJM2xYaFRJZzRuc0tNRDlyTE9OLWx3VjNsb09Ldy1XZzFlcVc1WlQ4aGxlbXgtOWdncjlvT3Q5bEtmd3hoQ3czd3fSAb8BQVVfeXFMT1YtVzNCY2FGdWtibnhNNlh1d2xLU0JjSGdIYjRQeUJLM0lBZDgtUC1vVlZEZzQ3dWo2b3plNXdydDNjVVBuekpIMm9MaTlRd0JPWFM2YmUxZWJnQl9NVHl1MTJXb0VqRlhEcEZGZENNQ0cweTk0VWpJYmhhNTRsWjV3YUZxX1pTVTJTX3ZPdUVMRGUzNGEwUFI3ZGlvTzBIWUNwc1hMb3NUMTItcXFGYkJWM2VHaWVWNGJLRWU5RWM?oc=5&hl=en-US&gl=US&ceid=US:en"
+category: "Politics"
+categorySlug: "politics"
+published: "2026-11-26T10:21:16+00:00"
+fetched: "2026-11-26T18:57:20.781195+00:00"
+status: draft
+---
+
+# DRAFT — DO NOT PUBLISH AS-IS
+
+This file is a **discovery draft only**. It is not an article: it must be
+verified against the source, rewritten fresh in Zentra Daily's own words,
+and moved to `src/content/articles/` by a human editor before it can go
+live. Drafts in this folder are never built into the site.
+
+## Story
+
+**Source:** [6abc Philadelphia]
+(https://news.google.com/rss/articles/CBMiugFBVV95cUxOUWhuaGtPQVpicjU2b3I3YkJ1d1pHM3U0Qmo1bU9oUHM4N3NzclAtQV9NMnFvelhvZ0JPRkhUYjVmY3RPX3cxSksyY3R2eGxNSTNfMDRCaGFBSXpyb09iclR2RF9BSG9NVTIzaXJUMGtzMnEyNmt4eXBJM2xYaFRJZzRuc0tNRDlyTE9OLWx3VjNsb09Ldy1XZzFlcVc1WlQ4aGxlbXgtOWdncjlvT3Q5bEtmd3hoQ3czd3fSAb8BQVVfeXFMT1YtVzNCY2FGdWtibnhNNlh1d2xLU0JjSGdIYjRQeUJLM0lBZDgtUC1vVlZEZzQ3dWo2b3plNXdydDNjVVBuekpIMm9MaTlRd0JPWFM2YmUxZWJnQl9NVHl1MTJXb0VqRlhEcEZGZENNQ0cweTk0VWpJYmhhNTRsWjV3YUZxX1pTVTJTX3ZPdUVMRGUzNGEwUFI3ZGlvTzBIWUNwc1hMb3NUMTItcXFGYkJWM2VHaWVWNGJLRWU5RWM?oc=5&hl=en-US&gl=US&ceid=US:en)
+
+**Published:** 2026-11-26 10:21:16+00:00
+
+## RSS summary (headline + short summary only — NOT article text)
+
+Boston man Ariel Velasquez-Morales arrested by ICE days after winning $1 million lottery jackpot 6abc Philadelphia ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize The New York Times ICE detains man in Massachusetts after he picks up lottery winnings CBS News Man who won $1 million lottery ticket is detained by ICE, days after he claimed his windfall The Boston Globe Illegal alien lottery winner’s luck runs out with ICE Boston arrest ICE | U.S. Immigration and Customs Enforcement (.gov)
+
+## Outline (to fill in while writing)
+
+- Lead: who / what / where / when, in one sentence.
+- What happened: the key facts, each verified against the source.
+- Why it matters: context for a general reader.
+- What is still unknown / disputed: say so explicitly; do not fill gaps.
+
+## To verify before writing
+
+- [ ] Open the source link and confirm the facts above are still current.
+- [ ] Confirm names, numbers and dates against the source (and a second
+      credible source for anything contested).
+- [ ] Do not copy the source headline or wording — write a fresh headline.
+- [ ] Add a Sources section linking the source(s) used.
+- [ ] 600+ words, Zentra Daily style (clear, plain, no hype).
